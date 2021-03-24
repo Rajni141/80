@@ -1,0 +1,17 @@
+div
+{
+    margin: 10px;
+    width: 48%;
+}
+#showParagraph1 , #showParagraph2
+{
+    width: 100%;
+    margin: 10px;
+}
+h1{
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: purple;
+    background-color: lightcyan;
+}
